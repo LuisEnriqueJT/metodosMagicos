@@ -1,4 +1,8 @@
 <?php
+	/*
+	Un destructor es un metodo que elimina el objeto cuando se termina
+	la ejecucion de la pagina.
+	*/
 	class Persona{
 		public function __construct(){
 			//No se recomienda imprimir en el constructor
